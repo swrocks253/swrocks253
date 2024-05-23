@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Keith GIlman
 - 👀 I’m interested in mostly home automation using Raspberry Pi and Arduino
-- 🌱 I’m currently working on a Nextion display for my home automation system
+- 🌱 I’m currently working on Learning how to use urBackup, updating my network, lots of ESP8266/ESP32 projects
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me swrocks253@yahoo.com
 
